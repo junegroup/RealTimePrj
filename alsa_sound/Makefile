@@ -1,0 +1,1 @@
+obj-y += sound_card_opr.o
